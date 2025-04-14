@@ -7,7 +7,9 @@ This is a simple and practical Python program designed to generate curse words. 
 ```
 python3 CurseGenerator.py
 ```
+
 ------
+
 <div dir="rtl">
 Author: @TG_KXDSJXSW<br>
 Release: @fuydg<br><br>
